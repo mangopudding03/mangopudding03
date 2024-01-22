@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mangopudding03
+- 👋 Hi, I’m Maanya Naveen
 - 👀 I’m interested in Web Development, Programming, Cyber Security and App Development.
 - 🌱 I am currently learning about designs and color theory.
 - 📫 You can reach me on my discord Mangopudding#6941
