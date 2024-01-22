@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mangopudding03
 - 👀 I’m interested in Web Development, Programming, Cyber Security and App Development.
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I am currently learning about designs and color theory.
 - 📫 You can reach me on my discord Mangopudding#6941
 
 <!---
